@@ -17,7 +17,7 @@ VinuPay is governed by the following licenses:
 - VinuPay's Smart Contract
 	- Main Contract - **UNLICENSED**
 	- RoleControl.sol - **MIT**
-	- Strings.sol (OpenZeppelin) --- **MIT**
+	- Strings.sol (OpenZeppelin) - **MIT**
 - VinuPay.js - **GNU GPLv3**
 - VinuPay's Dapp - **UNLICENSED**
 
